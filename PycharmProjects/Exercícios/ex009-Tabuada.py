@@ -1,0 +1,12 @@
+#Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada.
+n = int(input('Digite um número inteiro: '))
+print(f'01 X {n} = ',n * 1)
+print(f'02 X {n} = ',n * 2)
+print(f'03 X {n} = ',n * 3)
+print(f'04 X {n} = ',n * 4)
+print(f'05 X {n} = ',n * 5)
+print(f'06 X {n} = ',n * 6)
+print(f'07 X {n} = ',n * 7)
+print(f'08 X {n} = ',n * 8)
+print(f'09 X {n} = ',n * 9)
+print(f'10 X {n} = ',n * 10)
